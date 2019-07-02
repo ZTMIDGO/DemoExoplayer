@@ -1,5 +1,5 @@
 # DemoExoplayer
-具备ShareElements的Exoplayer视频播放(完成度30%)
+具备ShareElements的客制化的Exoplayer视频播放(完成度30%)
 
 
 .<h3>Google开源视频播放器</h3>
